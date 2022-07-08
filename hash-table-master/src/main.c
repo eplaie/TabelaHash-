@@ -3,7 +3,7 @@ int main(){
     char resp;
     no_hash *T;
 
-    //criacao da arvore
+    
     tb2 * raiz = cria_tb2();
 
     printf("\nEntre com o tamanho da tabela: ");
