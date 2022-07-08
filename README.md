@@ -26,9 +26,6 @@ menor quantidade de colições definem as melhores funções de hash, outra pro-
 priedade é a de que se um mesmo dado passar pela função de hash mais de uma
 vez deve gerar o mesmo resumo.
 
-## Objetivo
-Objetivo do trabalho é implementar um código em linguagem C, onde deverá
-conter uma função de hash
 
 
 ## Conclusão 
@@ -43,8 +40,6 @@ a função de hash tem que ser rápida e éficaz, para não demantar muito proce
 e permanecer com sua complexidade.
 
 
-## Saida
-### É esperado que as saidas sejam geradas a cada opção selecionada dentro do **switch case** e quando o usuario selecionar a opção de "Sair" seja printado "Saindo..." e termine a execução.
 
 ## Referências
 http://www.techtudo.com.br/artigos/noticia/2012/07/o-que-e-hash.html
