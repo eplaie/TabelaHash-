@@ -1,3 +1,5 @@
+#include "hash.h"
+
 int main(){
     int tamanho, i, k;
     char resp;
